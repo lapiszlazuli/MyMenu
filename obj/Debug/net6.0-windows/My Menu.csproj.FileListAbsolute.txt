@@ -1,0 +1,29 @@
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\My_Menu.Bienvenida.resources
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\My_Menu.Menu.resources
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\My_Menu.Presentacion.resources
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\My Menu.csproj.GenerateResource.cache
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\My Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\My Menu.AssemblyInfoInputs.cache
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\My Menu.AssemblyInfo.cs
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\My Menu.csproj.CoreCompileInputs.cache
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\bin\Debug\net6.0-windows\My Menu.exe
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\bin\Debug\net6.0-windows\My Menu.deps.json
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\bin\Debug\net6.0-windows\My Menu.runtimeconfig.json
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\bin\Debug\net6.0-windows\My Menu.dll
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\bin\Debug\net6.0-windows\My Menu.pdb
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\My Menu.dll
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\refint\My Menu.dll
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\My Menu.pdb
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\My Menu.genruntimeconfig.cache
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\ref\My Menu.dll
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\My_Menu.Dias_de_la_semana__Switch_.resources
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\My_Menu.Dias_de_la_semana.resources
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\My_Menu.Do_While.resources
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\My_Menu.Gasolina.resources
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\My_Menu.Numeros.resources
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\My_Menu.Par_Impar.resources
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\My_Menu.Properties.Resources.resources
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\My_Menu.Calculadora.resources
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\My_Menu.Clase.resources
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\My_Menu.Formula_General.resources
+C:\Users\said_\OneDrive\Escritorio\2do Cautri\Programacion Orientada a Objetos\My Menu\obj\Debug\net6.0-windows\Ventas.Form1.resources

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Bienvenida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Calculadora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Clase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dias de la semana %28Switch%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dias de la semana.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Do While.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formula General.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gasolina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Numeros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Par-Impar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
